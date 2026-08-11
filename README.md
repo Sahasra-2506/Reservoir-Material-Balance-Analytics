@@ -32,7 +32,6 @@ This project processes multi-year field production data to evaluate PVT properti
 
 ---
 
-## 👤 Author
-**Your Name**  
+## 
+**Pasupuleti Sahasra**  
 *Petroleum Engineering Candidate*  
-[LinkedIn Profile](https://linkedin.com/in/your-profile) | [GitHub Profile](https://github.com/your-username)

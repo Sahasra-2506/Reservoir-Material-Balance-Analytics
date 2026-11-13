@@ -26,10 +26,10 @@ This project processes multi-year field production data to evaluate PVT properti
 ---
 
 ## 📁 Repository Files
-* `Gas_Reservoir_Material_Balance.ipynb` – Interactive Colab notebook with calculations and diagnostic plots.
-* `Field_Production_Data.csv` – Field production dataset (Pressure, $G_p$, $W_p$, PVT metrics).
-* `Reservoir_Dashboard.pbix` – Power BI interactive dashboard file.
 
+- `MBAL_Project.ipynb` – Jupyter notebook (runs in Google Colab) with PVT calculations, material balance and diagnostic plots.
+- `MBAL_Data.csv` – Production dataset (pressure, Gp, Wp, PVT properties).
+- `MBAL_Analysis.pbix` – Power BI dashboard with interactive KPIs and slicers.
 ---
 
 ## 
